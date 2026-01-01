@@ -74,15 +74,21 @@ ML model + interactive web app for real-time house price predictions
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitgoyal7455&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitgoyal7455&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
-
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohitgoyal7455&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohitgoyal7455&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgoyal7455&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
+<div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitgoyal7455&custom_title=Mohit's%20Contribution%20Graph&hide_border=true&bg_color=141321&color=ff6e96&line=ff6e96&point=ffffff&area_color=ff6e96&area=true&theme=react-dark)](https://github.com/mohitgoyal7455)
+
+</div>
+
+---
 ---
 
 ## 🎯 Currently Learning
